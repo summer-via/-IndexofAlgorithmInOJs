@@ -1,2 +1,2 @@
-# -ProblemsCategoryOnOJ
-a summary of categorys of problemset in the main online judges
+# 各类型算法oj训练题索引
+主要是为了快速找到对应的训练题目，方便老玩家回归以及新玩家入门，欢迎大家补充。
